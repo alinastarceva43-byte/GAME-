@@ -1,0 +1,13 @@
+C:\Users\Nastya\source\repos\machinggame\machinggame\obj\Debug\machinggame.csproj.AssemblyReference.cache
+C:\Users\Nastya\source\repos\machinggame\machinggame\obj\Debug\machinggame.Properties.Resources.resources
+C:\Users\Nastya\source\repos\machinggame\machinggame\obj\Debug\machinggame.csproj.GenerateResource.cache
+C:\Users\Nastya\source\repos\machinggame\machinggame\obj\Debug\machinggame.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\machinggame\machinggame\obj\Debug\machimgame.Form1.resources
+C:\Users\Nastya\source\repos\machinggame\machinggame\bin\Debug\machinggame.exe.config
+C:\Users\Nastya\source\repos\machinggame\machinggame\bin\Debug\machinggame.exe
+C:\Users\Nastya\source\repos\machinggame\machinggame\bin\Debug\machinggame.pdb
+C:\Users\Nastya\source\repos\machinggame\machinggame\obj\Debug\machinggame.exe
+C:\Users\Nastya\source\repos\machinggame\machinggame\obj\Debug\machinggame.pdb
+C:\Users\Алина\Desktop\machinggame\obj\Debug\machinggame.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\machinggame\obj\Debug\machinggame.exe
+C:\Users\Алина\Desktop\machinggame\obj\Debug\machinggame.pdb
